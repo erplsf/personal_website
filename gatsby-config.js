@@ -18,7 +18,7 @@ module.exports = {
         icon: `src/images/favicon.png`,
       },
     },
-    "gatsby-plugin-react-helmet",
-    "gatsby-plugin-linaria",
+      "gatsby-plugin-react-helmet",
+      "gatsby-plugin-postcss"
   ]
 }
