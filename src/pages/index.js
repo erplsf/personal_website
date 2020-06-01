@@ -8,8 +8,8 @@ export default () => (
       <meta charSet="utf-8" />
         <title>Andriy Mykhaylyk</title>
     </Helmet>
-    <div className="md:flex">
-      <div>Solve. Improve. Repeat</div>
+    <div className="container mx-auto">
+      <div className="font-mono text-lg text-center">Solve. Improve. Repeat</div>
     </div>
   </>
 )
